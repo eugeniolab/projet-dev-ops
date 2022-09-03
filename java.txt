@@ -1,0 +1,7 @@
+class devops{
+
+
+public function hello()
+print("hello devops");
+
+}
