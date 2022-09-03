@@ -1,7 +1,6 @@
-class devops{
+class devop
+public function hello()float
 
-
-public function hello(int x, int y)
 print("hello devops");
 
 }
