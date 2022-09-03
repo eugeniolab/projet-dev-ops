@@ -1,7 +1,7 @@
 class devops{
 
 
-public function hello()
+public function hello()float
 print("hello devops");
 
 }
